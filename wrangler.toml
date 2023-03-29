@@ -1,0 +1,3 @@
+name = "steam-otp-email-worker"
+main = "src/email.ts"
+compatibility_date = "2023-03-29"
